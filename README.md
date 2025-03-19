@@ -8,16 +8,11 @@ Welcome to the Playwright TypeScript Starter project! This repository serves as 
 
 Before you begin, ensure you have the following installed:
 
-Node.js (LTS version recommended) - Download here
+Node.js (LTS version recommended) - [Download here](https://nodejs.org/en/download)
 
-VS Code (recommended for best developer experience) - Download here
+VS Code (recommended for best developer experience) - [Download here](https://code.visualstudio.com/download)
 
 🚀 Getting Started
-
-1️⃣ Clone the Repository
-
-git clone https://github.com/your-repo/playwright-ts-starter.git
-cd playwright-ts-starter
 
 2️⃣ Install Dependencies
 
