@@ -1,6 +1,4 @@
-# PW
-Playwright playground. Getting ready for generating tests and improving QA capabilities.
-Playwright TypeScript Starter
+# PW PROJECT - Playwright TypeScript Starter
 
 Welcome to the Playwright TypeScript Starter project! This repository serves as a playground for learning Playwright automation with TypeScript. Below, you'll find everything you need to set up, run, and debug your tests effectively.
 
